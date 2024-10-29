@@ -17,6 +17,9 @@ Construir una lista de productos utilizando el método `.map()` y aplicar render
    - Si `enOferta` es `true`, mostrar un mensaje de **"¡En oferta!"** junto con un precio rebajado (puedes aplicar un descuento, por ejemplo, del 20%).
    - Si `enOferta` es `false`, mostrar el precio original sin mensaje adicional.
 
+
+4. Extra agregar `children` a las card de productos para extender el componente.
+
 ## Ejemplo de Array de Productos
 ```javascript
 const productos = [
